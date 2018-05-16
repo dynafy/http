@@ -1,0 +1,12 @@
+{
+    "name": "dynafy/http",
+    "description": "A PHP7 & PSR-7 Compliant HTTP Component",
+    "autoload": {
+        "psr-4": {
+            "Dynafy\\Http\\": "src/"
+        }
+    },
+    "require": {
+        "psr/http-message": "^1.0"
+    }
+}
